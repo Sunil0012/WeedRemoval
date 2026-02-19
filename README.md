@@ -188,7 +188,7 @@ Follow these steps:
 git clone https://github.com/Sunil0012/WeedRemoval
 
 # Step 2: Navigate to the project directory.
-cd <WeedRemoval
+cd WeedRemoval
 
 # Step 3: Install the necessary dependencies.
 npm i
